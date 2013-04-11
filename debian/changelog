@@ -1,6 +1,6 @@
-mplayerthumbs (4:4.10.2-0r1) UNRELEASED; urgency=low
+mplayerthumbs (4:4.10.2-1) experimental; urgency=low
 
   [ Pino Toscano ]
   * Initial packaging.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 19 Feb 2013 15:04:42 +0100
+ -- Sune Vuorela <sune@debian.org>  Thu, 11 Apr 2013 21:41:43 +0000
