@@ -1,3 +1,9 @@
+mplayerthumbs (4:4.10.3-1) UNRELEASED; urgency=low
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 25 May 2013 21:48:03 +0200
+
 mplayerthumbs (4:4.10.2-1) experimental; urgency=low
 
   [ Pino Toscano ]
