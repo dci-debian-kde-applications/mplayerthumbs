@@ -1,8 +1,9 @@
-mplayerthumbs (4:15.04.2-1~) UNRELEASED; urgency=medium
+mplayerthumbs (4:15.08.0-1~) UNRELEASED; urgency=medium
 
   * New upstream release (15.04.2).
+  * New upstream release (15.08.0).
 
- -- Maximiliano Curia <maxy@debian.org>  Fri, 05 Jun 2015 11:28:00 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 10 Sep 2015 16:04:03 +0200
 
 mplayerthumbs (4:4.14.0-1) unstable; urgency=medium
 
