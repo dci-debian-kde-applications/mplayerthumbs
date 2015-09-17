@@ -2,6 +2,7 @@ mplayerthumbs (4:15.08.0-1~) UNRELEASED; urgency=medium
 
   * New upstream release (15.04.2).
   * New upstream release (15.08.0).
+  * Bump Standards-Version to 3.9.6.
 
  -- Maximiliano Curia <maxy@debian.org>  Thu, 10 Sep 2015 16:04:03 +0200
 
