@@ -1,8 +1,15 @@
-mplayerthumbs (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
+mplayerthumbs (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
+  * Merged with Debian
 
- -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 14:38:33 +0000
+ -- Clive Johnston <clivejo@aol.com>  Mon, 08 Feb 2016 19:52:56 +0000
+
+mplayerthumbs (4:15.08.3-1) unstable; urgency=medium
+
+  * New upstream release (15.08.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 02 Dec 2015 12:39:47 +0100
 
 mplayerthumbs (4:15.08.2-0ubuntu1) wily; urgency=medium
 
@@ -15,6 +22,14 @@ mplayerthumbs (4:15.08.1-0ubuntu1) wily; urgency=medium
   * New upstream release (15.08.1)
 
  -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 17:44:01 +0100
+
+mplayerthumbs (4:15.08.0-1) unstable; urgency=medium
+
+  * New upstream release (15.04.2).
+  * New upstream release (15.08.0).
+  * Bump Standards-Version to 3.9.6.
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 19 Sep 2015 19:10:32 +0200
 
 mplayerthumbs (4:15.08.0-0ubuntu1) wily; urgency=medium
 
