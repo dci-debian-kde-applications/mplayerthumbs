@@ -1,3 +1,11 @@
+mplayerthumbs (4:15.08.3-2~1.gbp53351c) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @53351cdb4eba9011d566c6626f5f069a5dd096d6 **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 14:43:25 +0200
+
 mplayerthumbs (4:15.08.3-1) unstable; urgency=medium
 
   * New upstream release (15.08.3).
