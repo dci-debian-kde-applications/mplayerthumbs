@@ -1,17 +1,13 @@
-mplayerthumbs (4:15.08.3-2~2.gbp2cf86c) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @2cf86cb66a93dbaa42260b2aca670e1cc54df616 **
+mplayerthumbs (4:15.08.3-2) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @53351cdb4eba9011d566c6626f5f069a5dd096d6 **
-
   * Bump Standards-Version to 3.9.8
 
   [ Maximiliano Curia ]
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 10:43:16 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 21 May 2016 23:50:58 +0200
 
 mplayerthumbs (4:15.08.3-1) unstable; urgency=medium
 
